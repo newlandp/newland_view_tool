@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+NewlandViewTool::Renderer.copyright("Name Here", "All rights reserved")
+```
 
 ## Development
 
